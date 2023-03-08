@@ -1,0 +1,32 @@
+[
+    {"id": "01", 
+    "name": "Spezilized", 
+    "descripcion": "mtb", 
+    "stock": 6,
+    "imgUrl": "https://mundobikes.com.ar/wp-content/uploads/2022/01/Specialized_Rockhopper_Expert2021_SatinSilverDust_02.jpg"
+    }, 
+    {"id": "02", 
+    "name": "Trek", 
+    "descripcion": "mtb", 
+    "stock": 3,
+    "imgUrl": "https://newsport.vtexassets.com/arquivos/ids/15298546-1600-auto?v=638094822128900000&width=1600&height=auto&aspect=true"
+    }, 
+    {"id": "03", 
+    "name": "Scott", 
+    "descripcion": "mtb", 
+    "stock": 4,
+    "imgUrl": "https://corrientesbikes.com.ar/wp-content/uploads/2022/12/CD2D7BF0-8588-43C2-BDE8-7F72D773E8FC.jpeg"
+    }, 
+    {"id": "04", 
+    "name": "Cannondale", 
+    "descripcion": "mtb", 
+    "stock": 2,
+    "imgUrl": "https://i.ebayimg.com/images/g/e~UAAOSwlqNjhnrS/s-l500.jpg"
+    }, 
+    {"id": "05", 
+    "name": "GMC", 
+    "descripcion": "mtb", 
+    "stock": 8,
+    "imgUrl": "https://www.bmc-switzerland.com/media/catalog/product/cache/db486834651b8299de17894045ea7cde/b/m/bmc-23-10517-007-bmc-fourstroke-three-mountain-bikes-1.jpg"
+    }
+  ]
